@@ -6,7 +6,7 @@
 - Based in Austin, TX
 
 ### About Me 👀
-- I worked for 7 years in the electrical construction field including QA and foreman positions before transitioning to being a Software Engineer.
+- I worked for 7 years in the electrical construction field including QA and foreman positions before transitioning to Software Engineering.
 
 ### Currently Learning 🌱
 - MySQL with nodeJS
