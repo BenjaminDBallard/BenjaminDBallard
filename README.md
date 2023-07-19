@@ -8,6 +8,6 @@
 ### About Me 👀
 - Hi I'm Ben, a Front-End Web Developer.
 
--I worked for 7 years in the electrical construction field including QA and foreman positions before transitioning to Software Engineering. Now I build intuitive web applications in React that deliver complicated data with easy-to-understand UI.
+- I worked for 7 years in the electrical construction field including QA and foreman positions before transitioning to Software Engineering. Now I build intuitive web applications in React that deliver complicated data with easy-to-understand UI.
 
--You can find my work at benballard.dev
+- You can find my work at benballard.dev
