@@ -2,12 +2,17 @@
 
 
 ### Quick Intro ✅
-- Student with Austin Coding Academy
+- Front-End Web Developer @ Ripple Learning LLC | React Engineer |
 - Based in Austin, TX
 
 ### About Me 👀
 - Hi I'm Ben, a Front-End Web Developer.
 
-- I worked for 7 years in the electrical construction field including QA and foreman positions before transitioning to Software Engineering. Now I build intuitive web applications in React that deliver complicated data with easy-to-understand UI.
+- background in the electrical construction sector spanning seven years. I have held roles in Quality Control and served as a foreman before transitioning to Software Engineering. Presently, my primary focus revolves around developing user-friendly web applications in React, designed to simplify the presentation of complex data. 
 
-- You can find my work at benballard.dev
+- To explore my portfolio, please visit:
+benballard.dev.
+
+
+ 
+
