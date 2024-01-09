@@ -2,7 +2,7 @@
 
 
 ### Quick Intro ✅
-- Front-End Web Developer @ Ripple Learning LLC | React Engineer |
+- Full-Stack Web Developer | React Engineer |
 - Based in Austin, TX
 
 ### About Me 👀
