@@ -13,5 +13,5 @@
 | Databases and Hosting | ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-0080FF?logo=digitalocean&logoColor=white) ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-8034A9.svg?logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-EB844E.svg?logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 | Software and Tools |  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-8034A9?logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Dbeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-382923?logo=dbeaver-mono&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white) |
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=benjamindballard&show_icons=true&theme=gotham&card_width=820)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamindballard&layout=compact&theme=gotham&card_width=820)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=benjamindballard&show_icons=true&theme=gotham&card_width=800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjamindballard&layout=compact&theme=gotham&card_width=800)
